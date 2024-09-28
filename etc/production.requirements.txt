@@ -1,0 +1,6 @@
+-r requirements.txt
+
+# Others
+gunicorn
+setproctitle
+psycopg2
